@@ -1,0 +1,26 @@
+"foo bar"
+
+"Lorem ipsum"
+
+git add ......
+git commit -m 
+
+git remote -v
+git remote add .....
+git remote remove ....
+
+#Subir Codigo
+git push //comando habitual (usa remoto y rama favoritos)
+git push nombreremoto nombrerama //comando completo
+git push origin master //ejemplo tipico
+git push -u origin master //fijar remoto y rama "favoritos"
+
+#Clonar repositorio
+git clone direccionRepositorioRemoto
+git clone direccionRepositorioRemoto nomberCarpetaNuevo
+
+#Descargar Codigo
+git pull //comando habitual (usa remoto y rama favoritos)
+git pull nombreremoto nombrerama //comando completo
+git pull origin master //ejemplo tipico
+
